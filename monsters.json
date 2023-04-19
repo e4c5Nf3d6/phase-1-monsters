@@ -6001,9 +6001,9 @@
       "id": 1000
     },
     {
-      "name": "13",
-      "age": 13,
-      "description": "131313",
+      "name": "Mike Wazowski",
+      "age": "18",
+      "description": "He is a green one-eyed round monster with two arms, legs, and small horns.",
       "id": 1001
     }
   ]
